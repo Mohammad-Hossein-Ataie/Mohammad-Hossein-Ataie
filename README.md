@@ -5,7 +5,7 @@
 * my linkedin account: https://www.linkedin.com/mwlite/in/mohammad-hossein-ataie-b8279a1a3
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Hossein-Ataie&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsoosk&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Hossein-Ataie&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
